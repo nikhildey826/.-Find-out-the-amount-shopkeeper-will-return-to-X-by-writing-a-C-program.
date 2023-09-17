@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+    float totalCost = (2.0 * 50.0) + (1.5 * 35.0) + (2.5 * 10.0) + (1.0 * 15.0);
+    float payment = 500.0;
+    float change = payment - totalCost;
+
+    printf("Amount to be returned to Mr. X: Rs. %.2f\n", change);
+
+    return 0;
+}
