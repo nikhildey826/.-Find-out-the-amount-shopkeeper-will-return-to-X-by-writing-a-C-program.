@@ -1,0 +1,1 @@
+# .-Find-out-the-amount-shopkeeper-will-return-to-X-by-writing-a-C-program.
